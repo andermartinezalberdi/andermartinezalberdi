@@ -31,7 +31,15 @@ Actualmente busco combinar ambas partes de mi experiencia: **el conocimiento de 
 
 ## Proyectos destacados
 
-<!-- Completaremos esta sección cuando seleccionemos los proyectos del portafolio. -->
+### 1. E-commerce A/B Testing & Revenue Analysis
+
+Análisis de un experimento A/B para una tienda online, combinando priorización de hipótesis con **ICE/RICE**, detección de valores atípicos y pruebas estadísticas para apoyar una decisión de negocio.
+
+**Resultado principal:** la variante B obtuvo una conversión **18.9% superior** después de eliminar anomalías, con una diferencia estadísticamente significativa (`p-value = 0.00702`).
+
+**Tecnologías:** Python · pandas · NumPy · Matplotlib · SciPy · A/B Testing
+
+[Ver proyecto](https://github.com/andermartinezalberdi/ecommerce-ab-testing-analysis)
 
 ## Actualmente desarrollando
 

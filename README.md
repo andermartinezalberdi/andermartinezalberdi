@@ -41,6 +41,16 @@ Análisis de un experimento A/B para una tienda online, combinando priorización
 
 [Ver proyecto](https://github.com/andermartinezalberdi/ecommerce-ab-testing-analysis)
 
+### 2. Análisis de Retención y Churn de Clientes
+
+Análisis del comportamiento de clientes de una cadena de gimnasios para identificar factores asociados al abandono, predecir churn y segmentar perfiles de riesgo mediante Machine Learning.
+
+**Resultado principal:** Random Forest alcanzó un **92.7% de accuracy, 88.5% de precision y 83.5% de recall**. La segmentación mediante K-Means identificó grupos con tasas de churn desde aproximadamente **2% hasta 53%**, permitiendo orientar estrategias de retención según el nivel de riesgo.
+
+**Tecnologías:** Python · pandas · scikit-learn · Machine Learning · K-Means · Customer Analytics
+
+[Ver proyecto](https://github.com/andermartinezalberdi/analisis-retencion-clientes)
+
 ## Actualmente desarrollando
 
 Tras completar mi formación como Data Analyst, continúo perfeccionando el uso de **SQL, Python, pandas y técnicas de análisis estadístico** mediante proyectos y práctica constante.
